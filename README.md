@@ -1,7 +1,7 @@
 # Technology-Fundamentals
 Software University (SoftUni) Tech Module exercises
 
-# Things i learned -
+## Things i learned:
 - Arrays and Lists
 - Dictionaries
 - Methods
