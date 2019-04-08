@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ArraysLab\bin\Debug\netcoreapp2.1\ArraysLab.deps.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ArraysLab\bin\Debug\netcoreapp2.1\ArraysLab.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ArraysLab\bin\Debug\netcoreapp2.1\ArraysLab.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ArraysLab\bin\Debug\netcoreapp2.1\ArraysLab.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ArraysLab\bin\Debug\netcoreapp2.1\ArraysLab.pdb
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ArraysLab\obj\Debug\netcoreapp2.1\ArraysLab.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ArraysLab\obj\Debug\netcoreapp2.1\ArraysLab.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ArraysLab\obj\Debug\netcoreapp2.1\ArraysLab.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ArraysLab\obj\Debug\netcoreapp2.1\ArraysLab.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ArraysLab\obj\Debug\netcoreapp2.1\ArraysLab.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ArraysLab\obj\Debug\netcoreapp2.1\ArraysLab.pdb

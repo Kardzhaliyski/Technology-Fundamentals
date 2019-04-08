@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConventorPoundsToDollars\bin\Debug\netcoreapp2.1\ConventorPoundsToDollars.deps.json
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConventorPoundsToDollars\bin\Debug\netcoreapp2.1\ConventorPoundsToDollars.runtimeconfig.json
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConventorPoundsToDollars\bin\Debug\netcoreapp2.1\ConventorPoundsToDollars.runtimeconfig.dev.json
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConventorPoundsToDollars\bin\Debug\netcoreapp2.1\ConventorPoundsToDollars.dll
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConventorPoundsToDollars\bin\Debug\netcoreapp2.1\ConventorPoundsToDollars.pdb
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConventorPoundsToDollars\obj\Debug\netcoreapp2.1\ConventorPoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConventorPoundsToDollars\obj\Debug\netcoreapp2.1\ConventorPoundsToDollars.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConventorPoundsToDollars\obj\Debug\netcoreapp2.1\ConventorPoundsToDollars.AssemblyInfo.cs
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConventorPoundsToDollars\obj\Debug\netcoreapp2.1\ConventorPoundsToDollars.dll
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConventorPoundsToDollars\obj\Debug\netcoreapp2.1\ConventorPoundsToDollars.pdb

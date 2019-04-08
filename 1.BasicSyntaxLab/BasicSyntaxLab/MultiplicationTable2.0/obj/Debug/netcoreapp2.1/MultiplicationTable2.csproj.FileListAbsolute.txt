@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\MultiplicationTable2.0\bin\Debug\netcoreapp2.1\MultiplicationTable2.deps.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\MultiplicationTable2.0\bin\Debug\netcoreapp2.1\MultiplicationTable2.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\MultiplicationTable2.0\bin\Debug\netcoreapp2.1\MultiplicationTable2.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\MultiplicationTable2.0\bin\Debug\netcoreapp2.1\MultiplicationTable2.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\MultiplicationTable2.0\bin\Debug\netcoreapp2.1\MultiplicationTable2.pdb
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\MultiplicationTable2.0\obj\Debug\netcoreapp2.1\MultiplicationTable2.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\MultiplicationTable2.0\obj\Debug\netcoreapp2.1\MultiplicationTable2.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\MultiplicationTable2.0\obj\Debug\netcoreapp2.1\MultiplicationTable2.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\MultiplicationTable2.0\obj\Debug\netcoreapp2.1\MultiplicationTable2.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\MultiplicationTable2.0\obj\Debug\netcoreapp2.1\MultiplicationTable2.pdb

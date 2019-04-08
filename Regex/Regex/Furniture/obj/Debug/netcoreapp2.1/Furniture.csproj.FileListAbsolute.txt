@@ -1,0 +1,10 @@
+E:\Git\Technology-Fundamentals\Regex\Regex\Furniture\bin\Debug\netcoreapp2.1\Furniture.deps.json
+E:\Git\Technology-Fundamentals\Regex\Regex\Furniture\bin\Debug\netcoreapp2.1\Furniture.runtimeconfig.json
+E:\Git\Technology-Fundamentals\Regex\Regex\Furniture\bin\Debug\netcoreapp2.1\Furniture.runtimeconfig.dev.json
+E:\Git\Technology-Fundamentals\Regex\Regex\Furniture\bin\Debug\netcoreapp2.1\Furniture.dll
+E:\Git\Technology-Fundamentals\Regex\Regex\Furniture\bin\Debug\netcoreapp2.1\Furniture.pdb
+E:\Git\Technology-Fundamentals\Regex\Regex\Furniture\obj\Debug\netcoreapp2.1\Furniture.csproj.CoreCompileInputs.cache
+E:\Git\Technology-Fundamentals\Regex\Regex\Furniture\obj\Debug\netcoreapp2.1\Furniture.AssemblyInfoInputs.cache
+E:\Git\Technology-Fundamentals\Regex\Regex\Furniture\obj\Debug\netcoreapp2.1\Furniture.AssemblyInfo.cs
+E:\Git\Technology-Fundamentals\Regex\Regex\Furniture\obj\Debug\netcoreapp2.1\Furniture.dll
+E:\Git\Technology-Fundamentals\Regex\Regex\Furniture\obj\Debug\netcoreapp2.1\Furniture.pdb

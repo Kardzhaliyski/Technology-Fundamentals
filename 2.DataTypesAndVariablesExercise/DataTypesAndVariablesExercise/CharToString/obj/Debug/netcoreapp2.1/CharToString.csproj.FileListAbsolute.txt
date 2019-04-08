@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\CharToString\bin\Debug\netcoreapp2.1\CharToString.deps.json
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\CharToString\bin\Debug\netcoreapp2.1\CharToString.runtimeconfig.json
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\CharToString\bin\Debug\netcoreapp2.1\CharToString.runtimeconfig.dev.json
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\CharToString\bin\Debug\netcoreapp2.1\CharToString.dll
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\CharToString\bin\Debug\netcoreapp2.1\CharToString.pdb
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\CharToString\obj\Debug\netcoreapp2.1\CharToString.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\CharToString\obj\Debug\netcoreapp2.1\CharToString.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\CharToString\obj\Debug\netcoreapp2.1\CharToString.AssemblyInfo.cs
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\CharToString\obj\Debug\netcoreapp2.1\CharToString.dll
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\CharToString\obj\Debug\netcoreapp2.1\CharToString.pdb
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\CharToString\obj\Debug\netcoreapp2.1\CharToString.csprojAssemblyReference.cache

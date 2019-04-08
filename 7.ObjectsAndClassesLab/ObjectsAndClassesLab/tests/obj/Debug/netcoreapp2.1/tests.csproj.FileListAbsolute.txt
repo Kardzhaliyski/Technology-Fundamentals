@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\tests\bin\Debug\netcoreapp2.1\tests.deps.json
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\tests\bin\Debug\netcoreapp2.1\tests.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\tests\bin\Debug\netcoreapp2.1\tests.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\tests\bin\Debug\netcoreapp2.1\tests.dll
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\tests\bin\Debug\netcoreapp2.1\tests.pdb
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\tests\obj\Debug\netcoreapp2.1\tests.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\tests\obj\Debug\netcoreapp2.1\tests.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\tests\obj\Debug\netcoreapp2.1\tests.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\tests\obj\Debug\netcoreapp2.1\tests.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\tests\obj\Debug\netcoreapp2.1\tests.dll
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\tests\obj\Debug\netcoreapp2.1\tests.pdb

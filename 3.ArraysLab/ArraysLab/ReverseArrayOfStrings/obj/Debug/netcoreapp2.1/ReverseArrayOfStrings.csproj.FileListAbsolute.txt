@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ReverseArrayOfStrings\bin\Debug\netcoreapp2.1\ReverseArrayOfStrings.deps.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ReverseArrayOfStrings\bin\Debug\netcoreapp2.1\ReverseArrayOfStrings.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ReverseArrayOfStrings\bin\Debug\netcoreapp2.1\ReverseArrayOfStrings.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ReverseArrayOfStrings\bin\Debug\netcoreapp2.1\ReverseArrayOfStrings.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ReverseArrayOfStrings\bin\Debug\netcoreapp2.1\ReverseArrayOfStrings.pdb
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\ReverseArrayOfStrings.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\ReverseArrayOfStrings.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\ReverseArrayOfStrings.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\ReverseArrayOfStrings.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\ReverseArrayOfStrings\obj\Debug\netcoreapp2.1\ReverseArrayOfStrings.pdb

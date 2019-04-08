@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\KaminoFactory\bin\Debug\netcoreapp2.1\KaminoFactory.deps.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\KaminoFactory\bin\Debug\netcoreapp2.1\KaminoFactory.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\KaminoFactory\bin\Debug\netcoreapp2.1\KaminoFactory.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\KaminoFactory\bin\Debug\netcoreapp2.1\KaminoFactory.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\KaminoFactory\bin\Debug\netcoreapp2.1\KaminoFactory.pdb
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\KaminoFactory\obj\Debug\netcoreapp2.1\KaminoFactory.pdb

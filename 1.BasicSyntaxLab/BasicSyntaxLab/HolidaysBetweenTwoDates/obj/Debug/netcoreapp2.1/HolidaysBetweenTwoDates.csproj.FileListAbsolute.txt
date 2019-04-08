@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.1\HolidaysBetweenTwoDates.deps.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.1\HolidaysBetweenTwoDates.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.1\HolidaysBetweenTwoDates.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.1\HolidaysBetweenTwoDates.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.1\HolidaysBetweenTwoDates.pdb
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.1\HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.1\HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.1\HolidaysBetweenTwoDates.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.1\HolidaysBetweenTwoDates.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.1\HolidaysBetweenTwoDates.pdb

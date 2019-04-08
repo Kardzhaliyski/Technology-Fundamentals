@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\BasicSyntaxMoreExercise\SortNumbers\bin\Debug\netcoreapp2.1\SortNumbers.deps.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\BasicSyntaxMoreExercise\SortNumbers\bin\Debug\netcoreapp2.1\SortNumbers.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\BasicSyntaxMoreExercise\SortNumbers\bin\Debug\netcoreapp2.1\SortNumbers.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\BasicSyntaxMoreExercise\SortNumbers\bin\Debug\netcoreapp2.1\SortNumbers.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\BasicSyntaxMoreExercise\SortNumbers\bin\Debug\netcoreapp2.1\SortNumbers.pdb
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\BasicSyntaxMoreExercise\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\BasicSyntaxMoreExercise\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\BasicSyntaxMoreExercise\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\BasicSyntaxMoreExercise\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\BasicSyntaxMoreExercise\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\BasicSyntaxMoreExercise\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.pdb

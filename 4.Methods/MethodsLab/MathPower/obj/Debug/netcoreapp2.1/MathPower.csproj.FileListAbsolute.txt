@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\MathPower\obj\Debug\netcoreapp2.1\MathPower.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\MathPower\obj\Debug\netcoreapp2.1\MathPower.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\MathPower\obj\Debug\netcoreapp2.1\MathPower.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\MathPower\bin\Debug\netcoreapp2.1\MathPower.deps.json
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\MathPower\bin\Debug\netcoreapp2.1\MathPower.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\MathPower\bin\Debug\netcoreapp2.1\MathPower.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\MathPower\bin\Debug\netcoreapp2.1\MathPower.dll
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\MathPower\bin\Debug\netcoreapp2.1\MathPower.pdb
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\MathPower\obj\Debug\netcoreapp2.1\MathPower.dll
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\MathPower\obj\Debug\netcoreapp2.1\MathPower.pdb

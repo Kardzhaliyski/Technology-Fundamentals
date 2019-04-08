@@ -1,0 +1,11 @@
+E:\Git\Technology-Fundamentals\Regex\Regex\ExtractEmails\bin\Debug\netcoreapp2.1\ExtractEmails.deps.json
+E:\Git\Technology-Fundamentals\Regex\Regex\ExtractEmails\bin\Debug\netcoreapp2.1\ExtractEmails.runtimeconfig.json
+E:\Git\Technology-Fundamentals\Regex\Regex\ExtractEmails\bin\Debug\netcoreapp2.1\ExtractEmails.runtimeconfig.dev.json
+E:\Git\Technology-Fundamentals\Regex\Regex\ExtractEmails\bin\Debug\netcoreapp2.1\ExtractEmails.dll
+E:\Git\Technology-Fundamentals\Regex\Regex\ExtractEmails\bin\Debug\netcoreapp2.1\ExtractEmails.pdb
+E:\Git\Technology-Fundamentals\Regex\Regex\ExtractEmails\obj\Debug\netcoreapp2.1\ExtractEmails.csproj.CoreCompileInputs.cache
+E:\Git\Technology-Fundamentals\Regex\Regex\ExtractEmails\obj\Debug\netcoreapp2.1\ExtractEmails.AssemblyInfoInputs.cache
+E:\Git\Technology-Fundamentals\Regex\Regex\ExtractEmails\obj\Debug\netcoreapp2.1\ExtractEmails.AssemblyInfo.cs
+E:\Git\Technology-Fundamentals\Regex\Regex\ExtractEmails\obj\Debug\netcoreapp2.1\ExtractEmails.dll
+E:\Git\Technology-Fundamentals\Regex\Regex\ExtractEmails\obj\Debug\netcoreapp2.1\ExtractEmails.pdb
+E:\Git\Technology-Fundamentals\Regex\Regex\ExtractEmails\obj\Debug\netcoreapp2.1\ExtractEmails.csprojAssemblyReference.cache

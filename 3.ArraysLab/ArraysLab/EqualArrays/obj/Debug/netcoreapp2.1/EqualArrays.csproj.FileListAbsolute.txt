@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EqualArrays\bin\Debug\netcoreapp2.1\EqualArrays.deps.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EqualArrays\bin\Debug\netcoreapp2.1\EqualArrays.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EqualArrays\bin\Debug\netcoreapp2.1\EqualArrays.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EqualArrays\bin\Debug\netcoreapp2.1\EqualArrays.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EqualArrays\bin\Debug\netcoreapp2.1\EqualArrays.pdb
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EqualArrays\obj\Debug\netcoreapp2.1\EqualArrays.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EqualArrays\obj\Debug\netcoreapp2.1\EqualArrays.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EqualArrays\obj\Debug\netcoreapp2.1\EqualArrays.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EqualArrays\obj\Debug\netcoreapp2.1\EqualArrays.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EqualArrays\obj\Debug\netcoreapp2.1\EqualArrays.pdb

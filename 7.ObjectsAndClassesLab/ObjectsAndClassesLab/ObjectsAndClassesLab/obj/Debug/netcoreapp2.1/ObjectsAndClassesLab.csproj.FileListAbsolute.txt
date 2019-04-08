@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\ObjectsAndClassesLab\bin\Debug\netcoreapp2.1\ObjectsAndClassesLab.deps.json
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\ObjectsAndClassesLab\bin\Debug\netcoreapp2.1\ObjectsAndClassesLab.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\ObjectsAndClassesLab\bin\Debug\netcoreapp2.1\ObjectsAndClassesLab.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\ObjectsAndClassesLab\bin\Debug\netcoreapp2.1\ObjectsAndClassesLab.dll
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\ObjectsAndClassesLab\bin\Debug\netcoreapp2.1\ObjectsAndClassesLab.pdb
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\ObjectsAndClassesLab\obj\Debug\netcoreapp2.1\ObjectsAndClassesLab.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\ObjectsAndClassesLab\obj\Debug\netcoreapp2.1\ObjectsAndClassesLab.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\ObjectsAndClassesLab\obj\Debug\netcoreapp2.1\ObjectsAndClassesLab.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\ObjectsAndClassesLab\obj\Debug\netcoreapp2.1\ObjectsAndClassesLab.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\ObjectsAndClassesLab\obj\Debug\netcoreapp2.1\ObjectsAndClassesLab.dll
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\ObjectsAndClassesLab\obj\Debug\netcoreapp2.1\ObjectsAndClassesLab.pdb

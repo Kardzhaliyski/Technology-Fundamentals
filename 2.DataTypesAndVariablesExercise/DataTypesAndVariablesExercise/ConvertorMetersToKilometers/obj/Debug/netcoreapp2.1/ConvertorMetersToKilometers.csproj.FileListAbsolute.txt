@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConvertorMetersToKilometers\bin\Debug\netcoreapp2.1\ConvertorMetersToKilometers.deps.json
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConvertorMetersToKilometers\bin\Debug\netcoreapp2.1\ConvertorMetersToKilometers.runtimeconfig.json
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConvertorMetersToKilometers\bin\Debug\netcoreapp2.1\ConvertorMetersToKilometers.runtimeconfig.dev.json
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConvertorMetersToKilometers\bin\Debug\netcoreapp2.1\ConvertorMetersToKilometers.dll
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConvertorMetersToKilometers\bin\Debug\netcoreapp2.1\ConvertorMetersToKilometers.pdb
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConvertorMetersToKilometers\obj\Debug\netcoreapp2.1\ConvertorMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConvertorMetersToKilometers\obj\Debug\netcoreapp2.1\ConvertorMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConvertorMetersToKilometers\obj\Debug\netcoreapp2.1\ConvertorMetersToKilometers.AssemblyInfo.cs
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConvertorMetersToKilometers\obj\Debug\netcoreapp2.1\ConvertorMetersToKilometers.dll
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ConvertorMetersToKilometers\obj\Debug\netcoreapp2.1\ConvertorMetersToKilometers.pdb

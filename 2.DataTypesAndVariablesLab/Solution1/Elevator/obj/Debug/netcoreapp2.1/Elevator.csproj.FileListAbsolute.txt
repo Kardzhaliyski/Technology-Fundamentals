@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\Elevator\bin\Debug\netcoreapp2.1\Elevator.deps.json
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\Elevator\bin\Debug\netcoreapp2.1\Elevator.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\Elevator\bin\Debug\netcoreapp2.1\Elevator.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\Elevator\bin\Debug\netcoreapp2.1\Elevator.dll
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\Elevator\bin\Debug\netcoreapp2.1\Elevator.pdb
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\Elevator\obj\Debug\netcoreapp2.1\Elevator.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\Elevator\obj\Debug\netcoreapp2.1\Elevator.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\Elevator\obj\Debug\netcoreapp2.1\Elevator.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\Elevator\obj\Debug\netcoreapp2.1\Elevator.dll
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\Elevator\obj\Debug\netcoreapp2.1\Elevator.pdb

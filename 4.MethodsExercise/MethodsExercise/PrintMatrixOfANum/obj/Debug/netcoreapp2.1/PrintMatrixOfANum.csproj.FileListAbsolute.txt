@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PrintMatrixOfANum\bin\Debug\netcoreapp2.1\PrintMatrixOfANum.deps.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PrintMatrixOfANum\bin\Debug\netcoreapp2.1\PrintMatrixOfANum.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PrintMatrixOfANum\bin\Debug\netcoreapp2.1\PrintMatrixOfANum.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PrintMatrixOfANum\bin\Debug\netcoreapp2.1\PrintMatrixOfANum.dll
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PrintMatrixOfANum\bin\Debug\netcoreapp2.1\PrintMatrixOfANum.pdb
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PrintMatrixOfANum\obj\Debug\netcoreapp2.1\PrintMatrixOfANum.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PrintMatrixOfANum\obj\Debug\netcoreapp2.1\PrintMatrixOfANum.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PrintMatrixOfANum\obj\Debug\netcoreapp2.1\PrintMatrixOfANum.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PrintMatrixOfANum\obj\Debug\netcoreapp2.1\PrintMatrixOfANum.dll
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PrintMatrixOfANum\obj\Debug\netcoreapp2.1\PrintMatrixOfANum.pdb

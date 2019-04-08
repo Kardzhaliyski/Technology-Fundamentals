@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\DataTypes\bin\Debug\netcoreapp2.1\DataTypes.deps.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\DataTypes\bin\Debug\netcoreapp2.1\DataTypes.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\DataTypes\bin\Debug\netcoreapp2.1\DataTypes.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\DataTypes\bin\Debug\netcoreapp2.1\DataTypes.dll
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\DataTypes\bin\Debug\netcoreapp2.1\DataTypes.pdb
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\DataTypes\obj\Debug\netcoreapp2.1\DataTypes.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\DataTypes\obj\Debug\netcoreapp2.1\DataTypes.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\DataTypes\obj\Debug\netcoreapp2.1\DataTypes.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\DataTypes\obj\Debug\netcoreapp2.1\DataTypes.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\DataTypes\obj\Debug\netcoreapp2.1\DataTypes.dll
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\DataTypes\obj\Debug\netcoreapp2.1\DataTypes.pdb

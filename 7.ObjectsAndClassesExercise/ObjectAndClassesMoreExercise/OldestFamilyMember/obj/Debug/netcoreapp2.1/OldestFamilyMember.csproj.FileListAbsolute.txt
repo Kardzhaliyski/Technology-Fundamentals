@@ -1,0 +1,11 @@
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\OldestFamilyMember\bin\Debug\netcoreapp2.1\OldestFamilyMember.deps.json
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\OldestFamilyMember\bin\Debug\netcoreapp2.1\OldestFamilyMember.runtimeconfig.json
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\OldestFamilyMember\bin\Debug\netcoreapp2.1\OldestFamilyMember.runtimeconfig.dev.json
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\OldestFamilyMember\bin\Debug\netcoreapp2.1\OldestFamilyMember.dll
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\OldestFamilyMember\bin\Debug\netcoreapp2.1\OldestFamilyMember.pdb
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\OldestFamilyMember\obj\Debug\netcoreapp2.1\OldestFamilyMember.csprojAssemblyReference.cache
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\OldestFamilyMember\obj\Debug\netcoreapp2.1\OldestFamilyMember.csproj.CoreCompileInputs.cache
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\OldestFamilyMember\obj\Debug\netcoreapp2.1\OldestFamilyMember.AssemblyInfoInputs.cache
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\OldestFamilyMember\obj\Debug\netcoreapp2.1\OldestFamilyMember.AssemblyInfo.cs
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\OldestFamilyMember\obj\Debug\netcoreapp2.1\OldestFamilyMember.dll
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\OldestFamilyMember\obj\Debug\netcoreapp2.1\OldestFamilyMember.pdb

@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\SumEvenNumbers\bin\Debug\netcoreapp2.1\SumEvenNumbers.deps.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\SumEvenNumbers\bin\Debug\netcoreapp2.1\SumEvenNumbers.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\SumEvenNumbers\bin\Debug\netcoreapp2.1\SumEvenNumbers.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\SumEvenNumbers\bin\Debug\netcoreapp2.1\SumEvenNumbers.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\SumEvenNumbers\bin\Debug\netcoreapp2.1\SumEvenNumbers.pdb
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\SumEvenNumbers\obj\Debug\netcoreapp2.1\SumEvenNumbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\SumEvenNumbers\obj\Debug\netcoreapp2.1\SumEvenNumbers.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\SumEvenNumbers\obj\Debug\netcoreapp2.1\SumEvenNumbers.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\SumEvenNumbers\obj\Debug\netcoreapp2.1\SumEvenNumbers.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\SumEvenNumbers\obj\Debug\netcoreapp2.1\SumEvenNumbers.pdb

@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\Songs\bin\Debug\netcoreapp2.1\Songs.deps.json
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\Songs\bin\Debug\netcoreapp2.1\Songs.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\Songs\bin\Debug\netcoreapp2.1\Songs.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\Songs\bin\Debug\netcoreapp2.1\Songs.dll
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\Songs\bin\Debug\netcoreapp2.1\Songs.pdb
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\Songs\obj\Debug\netcoreapp2.1\Songs.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\Songs\obj\Debug\netcoreapp2.1\Songs.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\Songs\obj\Debug\netcoreapp2.1\Songs.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\Songs\obj\Debug\netcoreapp2.1\Songs.dll
+E:\SoftUni\TechnologyFundamentals092018\7.ObjectsAndClassesLab\ObjectsAndClassesLab\Songs\obj\Debug\netcoreapp2.1\Songs.pdb

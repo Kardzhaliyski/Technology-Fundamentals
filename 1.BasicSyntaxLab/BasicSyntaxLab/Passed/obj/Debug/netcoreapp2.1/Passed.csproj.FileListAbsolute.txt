@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\Passed\obj\Debug\netcoreapp2.1\Passed.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\Passed\obj\Debug\netcoreapp2.1\Passed.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\Passed\obj\Debug\netcoreapp2.1\Passed.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\Passed\bin\Debug\netcoreapp2.1\Passed.deps.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\Passed\bin\Debug\netcoreapp2.1\Passed.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\Passed\bin\Debug\netcoreapp2.1\Passed.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\Passed\bin\Debug\netcoreapp2.1\Passed.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\Passed\bin\Debug\netcoreapp2.1\Passed.pdb
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\Passed\obj\Debug\netcoreapp2.1\Passed.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\Passed\obj\Debug\netcoreapp2.1\Passed.pdb

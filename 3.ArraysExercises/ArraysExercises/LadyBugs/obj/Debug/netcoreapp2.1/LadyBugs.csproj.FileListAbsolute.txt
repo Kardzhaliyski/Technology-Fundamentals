@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\LadyBugs\bin\Debug\netcoreapp2.1\LadyBugs.deps.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\LadyBugs\bin\Debug\netcoreapp2.1\LadyBugs.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\LadyBugs\bin\Debug\netcoreapp2.1\LadyBugs.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\LadyBugs\bin\Debug\netcoreapp2.1\LadyBugs.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\LadyBugs\bin\Debug\netcoreapp2.1\LadyBugs.pdb
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.pdb

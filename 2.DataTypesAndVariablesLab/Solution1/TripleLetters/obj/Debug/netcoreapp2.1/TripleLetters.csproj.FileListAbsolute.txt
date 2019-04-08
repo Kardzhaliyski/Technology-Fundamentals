@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\TripleLetters\bin\Debug\netcoreapp2.1\TripleLetters.deps.json
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\TripleLetters\bin\Debug\netcoreapp2.1\TripleLetters.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\TripleLetters\bin\Debug\netcoreapp2.1\TripleLetters.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\TripleLetters\bin\Debug\netcoreapp2.1\TripleLetters.dll
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\TripleLetters\bin\Debug\netcoreapp2.1\TripleLetters.pdb
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\TripleLetters\obj\Debug\netcoreapp2.1\TripleLetters.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\TripleLetters\obj\Debug\netcoreapp2.1\TripleLetters.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\TripleLetters\obj\Debug\netcoreapp2.1\TripleLetters.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\TripleLetters\obj\Debug\netcoreapp2.1\TripleLetters.dll
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\TripleLetters\obj\Debug\netcoreapp2.1\TripleLetters.pdb

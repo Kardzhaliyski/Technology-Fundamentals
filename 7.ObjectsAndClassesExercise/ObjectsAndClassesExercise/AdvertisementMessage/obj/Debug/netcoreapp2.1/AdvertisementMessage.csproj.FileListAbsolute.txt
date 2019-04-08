@@ -1,0 +1,11 @@
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\AdvertisementMessage\bin\Debug\netcoreapp2.1\AdvertisementMessage.deps.json
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\AdvertisementMessage\bin\Debug\netcoreapp2.1\AdvertisementMessage.runtimeconfig.json
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\AdvertisementMessage\bin\Debug\netcoreapp2.1\AdvertisementMessage.runtimeconfig.dev.json
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\AdvertisementMessage\bin\Debug\netcoreapp2.1\AdvertisementMessage.dll
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\AdvertisementMessage\bin\Debug\netcoreapp2.1\AdvertisementMessage.pdb
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\AdvertisementMessage\obj\Debug\netcoreapp2.1\AdvertisementMessage.csproj.CoreCompileInputs.cache
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\AdvertisementMessage\obj\Debug\netcoreapp2.1\AdvertisementMessage.AssemblyInfoInputs.cache
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\AdvertisementMessage\obj\Debug\netcoreapp2.1\AdvertisementMessage.AssemblyInfo.cs
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\AdvertisementMessage\obj\Debug\netcoreapp2.1\AdvertisementMessage.dll
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\AdvertisementMessage\obj\Debug\netcoreapp2.1\AdvertisementMessage.pdb
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\AdvertisementMessage\obj\Debug\netcoreapp2.1\AdvertisementMessage.csprojAssemblyReference.cache

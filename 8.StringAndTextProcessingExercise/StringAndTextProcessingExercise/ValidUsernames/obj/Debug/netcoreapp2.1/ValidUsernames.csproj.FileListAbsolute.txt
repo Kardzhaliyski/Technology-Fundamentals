@@ -1,0 +1,10 @@
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\ValidUsernames\bin\Debug\netcoreapp2.1\ValidUsernames.deps.json
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\ValidUsernames\bin\Debug\netcoreapp2.1\ValidUsernames.runtimeconfig.json
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\ValidUsernames\bin\Debug\netcoreapp2.1\ValidUsernames.runtimeconfig.dev.json
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\ValidUsernames\bin\Debug\netcoreapp2.1\ValidUsernames.dll
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\ValidUsernames\bin\Debug\netcoreapp2.1\ValidUsernames.pdb
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\ValidUsernames\obj\Debug\netcoreapp2.1\ValidUsernames.csproj.CoreCompileInputs.cache
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\ValidUsernames\obj\Debug\netcoreapp2.1\ValidUsernames.AssemblyInfoInputs.cache
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\ValidUsernames\obj\Debug\netcoreapp2.1\ValidUsernames.AssemblyInfo.cs
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\ValidUsernames\obj\Debug\netcoreapp2.1\ValidUsernames.dll
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\ValidUsernames\obj\Debug\netcoreapp2.1\ValidUsernames.pdb

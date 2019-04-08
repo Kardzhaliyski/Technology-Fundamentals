@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\RemoveNegativeAndReverse\obj\Debug\netcoreapp2.1\RemoveNegativeAndReverse.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\RemoveNegativeAndReverse\obj\Debug\netcoreapp2.1\RemoveNegativeAndReverse.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\RemoveNegativeAndReverse\obj\Debug\netcoreapp2.1\RemoveNegativeAndReverse.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\RemoveNegativeAndReverse\obj\Debug\netcoreapp2.1\RemoveNegativeAndReverse.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\RemoveNegativeAndReverse\bin\Debug\netcoreapp2.1\RemoveNegativeAndReverse.deps.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\RemoveNegativeAndReverse\bin\Debug\netcoreapp2.1\RemoveNegativeAndReverse.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\RemoveNegativeAndReverse\bin\Debug\netcoreapp2.1\RemoveNegativeAndReverse.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\RemoveNegativeAndReverse\bin\Debug\netcoreapp2.1\RemoveNegativeAndReverse.dll
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\RemoveNegativeAndReverse\bin\Debug\netcoreapp2.1\RemoveNegativeAndReverse.pdb
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\RemoveNegativeAndReverse\obj\Debug\netcoreapp2.1\RemoveNegativeAndReverse.dll
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\RemoveNegativeAndReverse\obj\Debug\netcoreapp2.1\RemoveNegativeAndReverse.pdb

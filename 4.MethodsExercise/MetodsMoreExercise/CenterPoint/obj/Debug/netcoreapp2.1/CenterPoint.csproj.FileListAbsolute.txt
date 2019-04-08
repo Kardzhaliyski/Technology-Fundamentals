@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\CenterPoint\bin\Debug\netcoreapp2.1\CenterPoint.deps.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\CenterPoint\bin\Debug\netcoreapp2.1\CenterPoint.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\CenterPoint\bin\Debug\netcoreapp2.1\CenterPoint.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\CenterPoint\bin\Debug\netcoreapp2.1\CenterPoint.dll
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\CenterPoint\bin\Debug\netcoreapp2.1\CenterPoint.pdb
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.dll
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.pdb

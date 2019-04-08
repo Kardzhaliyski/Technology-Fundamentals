@@ -1,0 +1,11 @@
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\CourierCompany\bin\Debug\netcoreapp2.1\CourierCompany.deps.json
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\CourierCompany\bin\Debug\netcoreapp2.1\CourierCompany.runtimeconfig.json
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\CourierCompany\bin\Debug\netcoreapp2.1\CourierCompany.runtimeconfig.dev.json
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\CourierCompany\bin\Debug\netcoreapp2.1\CourierCompany.dll
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\CourierCompany\bin\Debug\netcoreapp2.1\CourierCompany.pdb
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\CourierCompany\obj\Debug\netcoreapp2.1\CourierCompany.csprojAssemblyReference.cache
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\CourierCompany\obj\Debug\netcoreapp2.1\CourierCompany.csproj.CoreCompileInputs.cache
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\CourierCompany\obj\Debug\netcoreapp2.1\CourierCompany.AssemblyInfoInputs.cache
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\CourierCompany\obj\Debug\netcoreapp2.1\CourierCompany.AssemblyInfo.cs
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\CourierCompany\obj\Debug\netcoreapp2.1\CourierCompany.dll
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectAndClassesMoreExercise\CourierCompany\obj\Debug\netcoreapp2.1\CourierCompany.pdb

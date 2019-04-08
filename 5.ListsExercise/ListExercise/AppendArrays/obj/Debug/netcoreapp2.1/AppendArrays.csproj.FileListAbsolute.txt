@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\AppendArrays\bin\Debug\netcoreapp2.1\AppendArrays.deps.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\AppendArrays\bin\Debug\netcoreapp2.1\AppendArrays.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\AppendArrays\bin\Debug\netcoreapp2.1\AppendArrays.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\AppendArrays\bin\Debug\netcoreapp2.1\AppendArrays.dll
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\AppendArrays\bin\Debug\netcoreapp2.1\AppendArrays.pdb
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\AppendArrays\obj\Debug\netcoreapp2.1\AppendArrays.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\AppendArrays\obj\Debug\netcoreapp2.1\AppendArrays.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\AppendArrays\obj\Debug\netcoreapp2.1\AppendArrays.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\AppendArrays\obj\Debug\netcoreapp2.1\AppendArrays.dll
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\AppendArrays\obj\Debug\netcoreapp2.1\AppendArrays.pdb

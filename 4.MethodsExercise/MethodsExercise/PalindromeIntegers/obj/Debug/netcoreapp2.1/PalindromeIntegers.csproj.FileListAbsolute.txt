@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp2.1\PalindromeIntegers.deps.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp2.1\PalindromeIntegers.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp2.1\PalindromeIntegers.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp2.1\PalindromeIntegers.dll
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp2.1\PalindromeIntegers.pdb
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PalindromeIntegers\obj\Debug\netcoreapp2.1\PalindromeIntegers.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PalindromeIntegers\obj\Debug\netcoreapp2.1\PalindromeIntegers.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PalindromeIntegers\obj\Debug\netcoreapp2.1\PalindromeIntegers.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PalindromeIntegers\obj\Debug\netcoreapp2.1\PalindromeIntegers.dll
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\PalindromeIntegers\obj\Debug\netcoreapp2.1\PalindromeIntegers.pdb

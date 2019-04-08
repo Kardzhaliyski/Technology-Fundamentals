@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\MultiplicationSign\bin\Debug\netcoreapp2.1\MultiplicationSign.deps.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\MultiplicationSign\bin\Debug\netcoreapp2.1\MultiplicationSign.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\MultiplicationSign\bin\Debug\netcoreapp2.1\MultiplicationSign.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\MultiplicationSign\bin\Debug\netcoreapp2.1\MultiplicationSign.dll
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\MultiplicationSign\bin\Debug\netcoreapp2.1\MultiplicationSign.pdb
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\MultiplicationSign\obj\Debug\netcoreapp2.1\MultiplicationSign.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\MultiplicationSign\obj\Debug\netcoreapp2.1\MultiplicationSign.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\MultiplicationSign\obj\Debug\netcoreapp2.1\MultiplicationSign.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\MultiplicationSign\obj\Debug\netcoreapp2.1\MultiplicationSign.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\MultiplicationSign\obj\Debug\netcoreapp2.1\MultiplicationSign.dll
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\MultiplicationSign\obj\Debug\netcoreapp2.1\MultiplicationSign.pdb

@@ -1,0 +1,11 @@
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingLab\StringAndTextProcessingLab\TextFilter\bin\Debug\netcoreapp2.1\TextFilter.deps.json
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingLab\StringAndTextProcessingLab\TextFilter\bin\Debug\netcoreapp2.1\TextFilter.runtimeconfig.json
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingLab\StringAndTextProcessingLab\TextFilter\bin\Debug\netcoreapp2.1\TextFilter.runtimeconfig.dev.json
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingLab\StringAndTextProcessingLab\TextFilter\bin\Debug\netcoreapp2.1\TextFilter.dll
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingLab\StringAndTextProcessingLab\TextFilter\bin\Debug\netcoreapp2.1\TextFilter.pdb
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingLab\StringAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.csprojAssemblyReference.cache
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingLab\StringAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.csproj.CoreCompileInputs.cache
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingLab\StringAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.AssemblyInfoInputs.cache
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingLab\StringAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.AssemblyInfo.cs
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingLab\StringAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.dll
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingLab\StringAndTextProcessingLab\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.pdb

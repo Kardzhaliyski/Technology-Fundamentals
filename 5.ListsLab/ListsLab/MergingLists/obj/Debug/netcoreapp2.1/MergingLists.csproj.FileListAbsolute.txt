@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\MergingLists\bin\Debug\netcoreapp2.1\MergingLists.deps.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\MergingLists\bin\Debug\netcoreapp2.1\MergingLists.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\MergingLists\bin\Debug\netcoreapp2.1\MergingLists.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\MergingLists\bin\Debug\netcoreapp2.1\MergingLists.dll
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\MergingLists\bin\Debug\netcoreapp2.1\MergingLists.pdb
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\MergingLists\obj\Debug\netcoreapp2.1\MergingLists.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\MergingLists\obj\Debug\netcoreapp2.1\MergingLists.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\MergingLists\obj\Debug\netcoreapp2.1\MergingLists.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\MergingLists\obj\Debug\netcoreapp2.1\MergingLists.dll
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\MergingLists\obj\Debug\netcoreapp2.1\MergingLists.pdb
+E:\SoftUni\TechnologyFundamentals092018\5.ListsLab\ListsLab\MergingLists\obj\Debug\netcoreapp2.1\MergingLists.csprojAssemblyReference.cache

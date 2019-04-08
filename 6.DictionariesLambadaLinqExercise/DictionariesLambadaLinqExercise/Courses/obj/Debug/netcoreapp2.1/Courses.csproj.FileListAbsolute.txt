@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\Courses\bin\Debug\netcoreapp2.1\Courses.deps.json
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\Courses\bin\Debug\netcoreapp2.1\Courses.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\Courses\bin\Debug\netcoreapp2.1\Courses.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\Courses\bin\Debug\netcoreapp2.1\Courses.dll
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\Courses\bin\Debug\netcoreapp2.1\Courses.pdb
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\Courses\obj\Debug\netcoreapp2.1\Courses.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\Courses\obj\Debug\netcoreapp2.1\Courses.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\Courses\obj\Debug\netcoreapp2.1\Courses.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\Courses\obj\Debug\netcoreapp2.1\Courses.dll
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\Courses\obj\Debug\netcoreapp2.1\Courses.pdb
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\Courses\obj\Debug\netcoreapp2.1\Courses.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\StudentInfo\bin\Debug\netcoreapp2.1\StudentInfo.deps.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\StudentInfo\bin\Debug\netcoreapp2.1\StudentInfo.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\StudentInfo\bin\Debug\netcoreapp2.1\StudentInfo.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\StudentInfo\bin\Debug\netcoreapp2.1\StudentInfo.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\StudentInfo\bin\Debug\netcoreapp2.1\StudentInfo.pdb
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.pdb

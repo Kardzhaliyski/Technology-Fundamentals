@@ -1,0 +1,11 @@
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\VehicleCatalogue2\bin\Debug\netcoreapp2.1\VehicleCatalogue2.deps.json
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\VehicleCatalogue2\bin\Debug\netcoreapp2.1\VehicleCatalogue2.runtimeconfig.json
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\VehicleCatalogue2\bin\Debug\netcoreapp2.1\VehicleCatalogue2.runtimeconfig.dev.json
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\VehicleCatalogue2\bin\Debug\netcoreapp2.1\VehicleCatalogue2.dll
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\VehicleCatalogue2\bin\Debug\netcoreapp2.1\VehicleCatalogue2.pdb
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\VehicleCatalogue2\obj\Debug\netcoreapp2.1\VehicleCatalogue2.csproj.CoreCompileInputs.cache
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\VehicleCatalogue2\obj\Debug\netcoreapp2.1\VehicleCatalogue2.AssemblyInfoInputs.cache
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\VehicleCatalogue2\obj\Debug\netcoreapp2.1\VehicleCatalogue2.AssemblyInfo.cs
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\VehicleCatalogue2\obj\Debug\netcoreapp2.1\VehicleCatalogue2.dll
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\VehicleCatalogue2\obj\Debug\netcoreapp2.1\VehicleCatalogue2.pdb
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\VehicleCatalogue2\obj\Debug\netcoreapp2.1\VehicleCatalogue2.csprojAssemblyReference.cache

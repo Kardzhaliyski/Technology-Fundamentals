@@ -1,0 +1,11 @@
+E:\Git\Technology-Fundamentals\Regex\Regex\MatchFullName\bin\Debug\netcoreapp2.1\MatchFullName.deps.json
+E:\Git\Technology-Fundamentals\Regex\Regex\MatchFullName\bin\Debug\netcoreapp2.1\MatchFullName.runtimeconfig.json
+E:\Git\Technology-Fundamentals\Regex\Regex\MatchFullName\bin\Debug\netcoreapp2.1\MatchFullName.runtimeconfig.dev.json
+E:\Git\Technology-Fundamentals\Regex\Regex\MatchFullName\bin\Debug\netcoreapp2.1\MatchFullName.dll
+E:\Git\Technology-Fundamentals\Regex\Regex\MatchFullName\bin\Debug\netcoreapp2.1\MatchFullName.pdb
+E:\Git\Technology-Fundamentals\Regex\Regex\MatchFullName\obj\Debug\netcoreapp2.1\MatchFullName.csprojAssemblyReference.cache
+E:\Git\Technology-Fundamentals\Regex\Regex\MatchFullName\obj\Debug\netcoreapp2.1\MatchFullName.csproj.CoreCompileInputs.cache
+E:\Git\Technology-Fundamentals\Regex\Regex\MatchFullName\obj\Debug\netcoreapp2.1\MatchFullName.AssemblyInfoInputs.cache
+E:\Git\Technology-Fundamentals\Regex\Regex\MatchFullName\obj\Debug\netcoreapp2.1\MatchFullName.AssemblyInfo.cs
+E:\Git\Technology-Fundamentals\Regex\Regex\MatchFullName\obj\Debug\netcoreapp2.1\MatchFullName.dll
+E:\Git\Technology-Fundamentals\Regex\Regex\MatchFullName\obj\Debug\netcoreapp2.1\MatchFullName.pdb

@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\TriangleOfNumbers\bin\Debug\netcoreapp2.1\TriangleOfNumbers.deps.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\TriangleOfNumbers\bin\Debug\netcoreapp2.1\TriangleOfNumbers.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\TriangleOfNumbers\bin\Debug\netcoreapp2.1\TriangleOfNumbers.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\TriangleOfNumbers\bin\Debug\netcoreapp2.1\TriangleOfNumbers.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\TriangleOfNumbers\bin\Debug\netcoreapp2.1\TriangleOfNumbers.pdb
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\TriangleOfNumbers\obj\Debug\netcoreapp2.1\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\TriangleOfNumbers\obj\Debug\netcoreapp2.1\TriangleOfNumbers.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\TriangleOfNumbers\obj\Debug\netcoreapp2.1\TriangleOfNumbers.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\TriangleOfNumbers\obj\Debug\netcoreapp2.1\TriangleOfNumbers.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\TriangleOfNumbers\obj\Debug\netcoreapp2.1\TriangleOfNumbers.pdb

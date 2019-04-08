@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\Ages\bin\Debug\netcoreapp2.1\Ages.deps.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\Ages\bin\Debug\netcoreapp2.1\Ages.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\Ages\bin\Debug\netcoreapp2.1\Ages.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\Ages\bin\Debug\netcoreapp2.1\Ages.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\Ages\bin\Debug\netcoreapp2.1\Ages.pdb
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\Ages\obj\Debug\netcoreapp2.1\Ages.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\Ages\obj\Debug\netcoreapp2.1\Ages.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\Ages\obj\Debug\netcoreapp2.1\Ages.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\Ages\obj\Debug\netcoreapp2.1\Ages.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\Ages\obj\Debug\netcoreapp2.1\Ages.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\Ages\obj\Debug\netcoreapp2.1\Ages.pdb

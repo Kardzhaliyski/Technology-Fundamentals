@@ -1,0 +1,10 @@
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\MultiplyBigNumbers\bin\Debug\netcoreapp2.1\MultiplyBigNumbers.deps.json
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\MultiplyBigNumbers\bin\Debug\netcoreapp2.1\MultiplyBigNumbers.runtimeconfig.json
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\MultiplyBigNumbers\bin\Debug\netcoreapp2.1\MultiplyBigNumbers.runtimeconfig.dev.json
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\MultiplyBigNumbers\bin\Debug\netcoreapp2.1\MultiplyBigNumbers.dll
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\MultiplyBigNumbers\bin\Debug\netcoreapp2.1\MultiplyBigNumbers.pdb
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\MultiplyBigNumbers\obj\Debug\netcoreapp2.1\MultiplyBigNumbers.csproj.CoreCompileInputs.cache
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\MultiplyBigNumbers\obj\Debug\netcoreapp2.1\MultiplyBigNumbers.AssemblyInfoInputs.cache
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\MultiplyBigNumbers\obj\Debug\netcoreapp2.1\MultiplyBigNumbers.AssemblyInfo.cs
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\MultiplyBigNumbers\obj\Debug\netcoreapp2.1\MultiplyBigNumbers.dll
+E:\Git\Technology-Fundamentals\8.StringAndTextProcessingExercise\StringAndTextProcessingExercise\MultiplyBigNumbers\obj\Debug\netcoreapp2.1\MultiplyBigNumbers.pdb

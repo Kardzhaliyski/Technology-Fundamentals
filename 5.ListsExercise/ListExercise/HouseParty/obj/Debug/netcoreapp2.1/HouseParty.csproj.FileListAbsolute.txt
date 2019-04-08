@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\HouseParty\bin\Debug\netcoreapp2.1\HouseParty.deps.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\HouseParty\bin\Debug\netcoreapp2.1\HouseParty.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\HouseParty\bin\Debug\netcoreapp2.1\HouseParty.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\HouseParty\bin\Debug\netcoreapp2.1\HouseParty.dll
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\HouseParty\bin\Debug\netcoreapp2.1\HouseParty.pdb
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.dll
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\HouseParty\obj\Debug\netcoreapp2.1\HouseParty.pdb

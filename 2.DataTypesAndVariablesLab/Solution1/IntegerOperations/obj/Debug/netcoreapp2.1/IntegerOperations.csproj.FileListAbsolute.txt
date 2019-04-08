@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\IntegerOperations\bin\Debug\netcoreapp2.1\IntegerOperations.deps.json
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\IntegerOperations\bin\Debug\netcoreapp2.1\IntegerOperations.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\IntegerOperations\bin\Debug\netcoreapp2.1\IntegerOperations.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\IntegerOperations\bin\Debug\netcoreapp2.1\IntegerOperations.dll
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\IntegerOperations\bin\Debug\netcoreapp2.1\IntegerOperations.pdb
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\IntegerOperations\obj\Debug\netcoreapp2.1\IntegerOperations.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\IntegerOperations\obj\Debug\netcoreapp2.1\IntegerOperations.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\IntegerOperations\obj\Debug\netcoreapp2.1\IntegerOperations.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\IntegerOperations\obj\Debug\netcoreapp2.1\IntegerOperations.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\IntegerOperations\obj\Debug\netcoreapp2.1\IntegerOperations.dll
+E:\SoftUni\TechnologyFundamentals092018\2.DataTypesAndVariablesLab\Solution1\IntegerOperations\obj\Debug\netcoreapp2.1\IntegerOperations.pdb

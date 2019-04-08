@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\SignOfIntegerNumber\bin\Debug\netcoreapp2.1\SignOfIntegerNumber.deps.json
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\SignOfIntegerNumber\bin\Debug\netcoreapp2.1\SignOfIntegerNumber.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\SignOfIntegerNumber\bin\Debug\netcoreapp2.1\SignOfIntegerNumber.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\SignOfIntegerNumber\bin\Debug\netcoreapp2.1\SignOfIntegerNumber.dll
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\SignOfIntegerNumber\bin\Debug\netcoreapp2.1\SignOfIntegerNumber.pdb
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.1\SignOfIntegerNumber.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.1\SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.1\SignOfIntegerNumber.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.1\SignOfIntegerNumber.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.1\SignOfIntegerNumber.dll
+E:\SoftUni\TechnologyFundamentals092018\4.Methods\MethodsLab\SignOfIntegerNumber\obj\Debug\netcoreapp2.1\SignOfIntegerNumber.pdb

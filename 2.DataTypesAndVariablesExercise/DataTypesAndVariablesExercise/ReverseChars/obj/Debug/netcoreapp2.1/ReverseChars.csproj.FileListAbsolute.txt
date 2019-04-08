@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ReverseChars\bin\Debug\netcoreapp2.1\ReverseChars.deps.json
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ReverseChars\bin\Debug\netcoreapp2.1\ReverseChars.runtimeconfig.json
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ReverseChars\bin\Debug\netcoreapp2.1\ReverseChars.runtimeconfig.dev.json
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ReverseChars\bin\Debug\netcoreapp2.1\ReverseChars.dll
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ReverseChars\bin\Debug\netcoreapp2.1\ReverseChars.pdb
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ReverseChars\obj\Debug\netcoreapp2.1\ReverseChars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ReverseChars\obj\Debug\netcoreapp2.1\ReverseChars.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ReverseChars\obj\Debug\netcoreapp2.1\ReverseChars.AssemblyInfo.cs
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ReverseChars\obj\Debug\netcoreapp2.1\ReverseChars.dll
+C:\Users\User\source\repos\DataTypesAndVariablesExercise\ReverseChars\obj\Debug\netcoreapp2.1\ReverseChars.pdb

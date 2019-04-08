@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\BombNumbers\bin\Debug\netcoreapp2.1\BombNumbers.deps.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\BombNumbers\bin\Debug\netcoreapp2.1\BombNumbers.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\BombNumbers\bin\Debug\netcoreapp2.1\BombNumbers.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\BombNumbers\bin\Debug\netcoreapp2.1\BombNumbers.dll
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\BombNumbers\bin\Debug\netcoreapp2.1\BombNumbers.pdb
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\BombNumbers\obj\Debug\netcoreapp2.1\BombNumbers.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\BombNumbers\obj\Debug\netcoreapp2.1\BombNumbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\BombNumbers\obj\Debug\netcoreapp2.1\BombNumbers.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\BombNumbers\obj\Debug\netcoreapp2.1\BombNumbers.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\BombNumbers\obj\Debug\netcoreapp2.1\BombNumbers.dll
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\BombNumbers\obj\Debug\netcoreapp2.1\BombNumbers.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\SoftUniCoursePlanning.deps.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\SoftUniCoursePlanning.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\SoftUniCoursePlanning.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\SoftUniCoursePlanning.dll
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\SoftUniCoursePlanning.pdb
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\SoftUniCoursePlanning.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\SoftUniCoursePlanning.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\SoftUniCoursePlanning.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\SoftUniCoursePlanning.dll
+E:\SoftUni\TechnologyFundamentals092018\5.ListsExercise\ListExercise\SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\SoftUniCoursePlanning.pdb

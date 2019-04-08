@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EvenAndOddSubtraction\bin\Debug\netcoreapp2.1\EvenAndOddSubtraction.deps.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EvenAndOddSubtraction\bin\Debug\netcoreapp2.1\EvenAndOddSubtraction.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EvenAndOddSubtraction\bin\Debug\netcoreapp2.1\EvenAndOddSubtraction.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EvenAndOddSubtraction\bin\Debug\netcoreapp2.1\EvenAndOddSubtraction.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EvenAndOddSubtraction\bin\Debug\netcoreapp2.1\EvenAndOddSubtraction.pdb
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EvenAndOddSubtraction\obj\Debug\netcoreapp2.1\EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EvenAndOddSubtraction\obj\Debug\netcoreapp2.1\EvenAndOddSubtraction.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EvenAndOddSubtraction\obj\Debug\netcoreapp2.1\EvenAndOddSubtraction.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EvenAndOddSubtraction\obj\Debug\netcoreapp2.1\EvenAndOddSubtraction.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysLab\ArraysLab\EvenAndOddSubtraction\obj\Debug\netcoreapp2.1\EvenAndOddSubtraction.pdb

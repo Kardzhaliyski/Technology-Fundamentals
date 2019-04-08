@@ -1,0 +1,11 @@
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\Articles2\bin\Debug\netcoreapp2.1\Articles2.deps.json
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\Articles2\bin\Debug\netcoreapp2.1\Articles2.runtimeconfig.json
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\Articles2\bin\Debug\netcoreapp2.1\Articles2.runtimeconfig.dev.json
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\Articles2\bin\Debug\netcoreapp2.1\Articles2.dll
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\Articles2\bin\Debug\netcoreapp2.1\Articles2.pdb
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\Articles2\obj\Debug\netcoreapp2.1\Articles2.csproj.CoreCompileInputs.cache
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\Articles2\obj\Debug\netcoreapp2.1\Articles2.AssemblyInfoInputs.cache
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\Articles2\obj\Debug\netcoreapp2.1\Articles2.AssemblyInfo.cs
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\Articles2\obj\Debug\netcoreapp2.1\Articles2.dll
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\Articles2\obj\Debug\netcoreapp2.1\Articles2.pdb
+E:\Git\Technology-Fundamentals\7.ObjectsAndClassesExercise\ObjectsAndClassesExercise\Articles2\obj\Debug\netcoreapp2.1\Articles2.csprojAssemblyReference.cache

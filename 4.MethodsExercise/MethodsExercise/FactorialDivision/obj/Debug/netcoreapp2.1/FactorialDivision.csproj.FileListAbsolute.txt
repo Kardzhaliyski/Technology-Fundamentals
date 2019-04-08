@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\FactorialDivision\bin\Debug\netcoreapp2.1\FactorialDivision.deps.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\FactorialDivision\bin\Debug\netcoreapp2.1\FactorialDivision.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\FactorialDivision\bin\Debug\netcoreapp2.1\FactorialDivision.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\FactorialDivision\bin\Debug\netcoreapp2.1\FactorialDivision.dll
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\FactorialDivision\bin\Debug\netcoreapp2.1\FactorialDivision.pdb
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\FactorialDivision\obj\Debug\netcoreapp2.1\FactorialDivision.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\FactorialDivision\obj\Debug\netcoreapp2.1\FactorialDivision.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\FactorialDivision\obj\Debug\netcoreapp2.1\FactorialDivision.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\FactorialDivision\obj\Debug\netcoreapp2.1\FactorialDivision.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\FactorialDivision\obj\Debug\netcoreapp2.1\FactorialDivision.dll
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MethodsExercise\FactorialDivision\obj\Debug\netcoreapp2.1\FactorialDivision.pdb

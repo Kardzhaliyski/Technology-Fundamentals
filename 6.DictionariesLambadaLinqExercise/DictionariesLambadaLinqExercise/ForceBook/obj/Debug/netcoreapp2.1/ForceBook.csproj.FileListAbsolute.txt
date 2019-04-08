@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.deps.json
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.dll
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\ForceBook\bin\Debug\netcoreapp2.1\ForceBook.pdb
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.dll
+E:\SoftUni\TechnologyFundamentals092018\6.DictionariesLambadaLinqExercise\DictionariesLambadaLinqExercise\ForceBook\obj\Debug\netcoreapp2.1\ForceBook.pdb

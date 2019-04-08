@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\CommonElements\bin\Debug\netcoreapp2.1\CommonElements.deps.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\CommonElements\bin\Debug\netcoreapp2.1\CommonElements.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\CommonElements\bin\Debug\netcoreapp2.1\CommonElements.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\CommonElements\bin\Debug\netcoreapp2.1\CommonElements.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\CommonElements\bin\Debug\netcoreapp2.1\CommonElements.pdb
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\CommonElements\obj\Debug\netcoreapp2.1\CommonElements.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\CommonElements\obj\Debug\netcoreapp2.1\CommonElements.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\CommonElements\obj\Debug\netcoreapp2.1\CommonElements.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\CommonElements\obj\Debug\netcoreapp2.1\CommonElements.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\CommonElements\obj\Debug\netcoreapp2.1\CommonElements.pdb

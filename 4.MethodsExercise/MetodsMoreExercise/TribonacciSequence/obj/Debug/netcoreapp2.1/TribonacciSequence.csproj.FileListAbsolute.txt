@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\TribonacciSequence\bin\Debug\netcoreapp2.1\TribonacciSequence.deps.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\TribonacciSequence\bin\Debug\netcoreapp2.1\TribonacciSequence.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\TribonacciSequence\bin\Debug\netcoreapp2.1\TribonacciSequence.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\TribonacciSequence\bin\Debug\netcoreapp2.1\TribonacciSequence.dll
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\TribonacciSequence\bin\Debug\netcoreapp2.1\TribonacciSequence.pdb
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\TribonacciSequence\obj\Debug\netcoreapp2.1\TribonacciSequence.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\TribonacciSequence\obj\Debug\netcoreapp2.1\TribonacciSequence.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\TribonacciSequence\obj\Debug\netcoreapp2.1\TribonacciSequence.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\TribonacciSequence\obj\Debug\netcoreapp2.1\TribonacciSequence.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\TribonacciSequence\obj\Debug\netcoreapp2.1\TribonacciSequence.dll
+E:\SoftUni\TechnologyFundamentals092018\4.MethodsExercise\MetodsMoreExercise\TribonacciSequence\obj\Debug\netcoreapp2.1\TribonacciSequence.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\VendingMachine\bin\Debug\netcoreapp2.1\VendingMachine.deps.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\VendingMachine\bin\Debug\netcoreapp2.1\VendingMachine.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\VendingMachine\bin\Debug\netcoreapp2.1\VendingMachine.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\VendingMachine\bin\Debug\netcoreapp2.1\VendingMachine.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\VendingMachine\bin\Debug\netcoreapp2.1\VendingMachine.pdb
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\VendingMachine\obj\Debug\netcoreapp2.1\VendingMachine.csprojAssemblyReference.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\VendingMachine\obj\Debug\netcoreapp2.1\VendingMachine.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\VendingMachine\obj\Debug\netcoreapp2.1\VendingMachine.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\VendingMachine\obj\Debug\netcoreapp2.1\VendingMachine.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\VendingMachine\obj\Debug\netcoreapp2.1\VendingMachine.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxExercise\IntroBasicSyntax\VendingMachine\obj\Debug\netcoreapp2.1\VendingMachine.pdb

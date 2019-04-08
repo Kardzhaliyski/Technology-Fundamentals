@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\DivisibleBy3\bin\Debug\netcoreapp2.1\DivisibleBy3.deps.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\DivisibleBy3\bin\Debug\netcoreapp2.1\DivisibleBy3.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\DivisibleBy3\bin\Debug\netcoreapp2.1\DivisibleBy3.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\DivisibleBy3\bin\Debug\netcoreapp2.1\DivisibleBy3.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\DivisibleBy3\bin\Debug\netcoreapp2.1\DivisibleBy3.pdb
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\DivisibleBy3\obj\Debug\netcoreapp2.1\DivisibleBy3.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\DivisibleBy3\obj\Debug\netcoreapp2.1\DivisibleBy3.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\DivisibleBy3\obj\Debug\netcoreapp2.1\DivisibleBy3.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\DivisibleBy3\obj\Debug\netcoreapp2.1\DivisibleBy3.dll
+E:\SoftUni\TechnologyFundamentals092018\1.BasicSyntaxLab\BasicSyntaxLab\DivisibleBy3\obj\Debug\netcoreapp2.1\DivisibleBy3.pdb

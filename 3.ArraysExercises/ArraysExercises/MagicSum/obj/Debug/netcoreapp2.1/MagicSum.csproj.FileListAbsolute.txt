@@ -1,0 +1,10 @@
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.deps.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.runtimeconfig.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.runtimeconfig.dev.json
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.pdb
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.csproj.CoreCompileInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.AssemblyInfoInputs.cache
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.AssemblyInfo.cs
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.dll
+E:\SoftUni\TechnologyFundamentals092018\3.ArraysExercises\ArraysExercises\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.pdb
