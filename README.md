@@ -1,2 +1,2 @@
 # Technology-Fundamentals
-SoftUni Tech Module exercises
+Software University (SoftUni) Tech Module exercises
